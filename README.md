@@ -3,5 +3,5 @@
 Things I have done:
 
 #Python:
-- Learnt beautifulsoup to scrape sites
+- Learn beautifulsoup to scrape sites (08/04/2022)
 - 
